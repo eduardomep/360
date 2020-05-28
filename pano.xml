@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17956" appversion="6.1.8" start="node1">
+  <panorama id="node1">
+    <input levelbias="0.400" height="1135" levelingroll="0" levelingpitch="0" leveltilesize="510" width="1135" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" height="1135" width="1135" predecode="0"/>
+      <level preload="0" height="567" width="567" predecode="0"/>
+      <level preload="1" height="283" width="283" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata info="" tags="Desktop" comment="" customnodeid="" description="" datetime="21/05/2020 10:29" heading="180" copyright="" source="" latitude="" nodeid="node1" title="" author="" longitude="">
+      <mapcoords x="0.668793" mapid="AptoUE4" y_floorplan_percent="31.1081" x_floorplan_percent="45.0926" y="-0.319977"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" bordercolor="0x000000" background="1" backgroundalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" enabled="1" height="20" width="180" wordwrap="1" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
+      <hotspot id="Comedor" pan="172.01" description="" title="COMEDOR" tilt="0.41" skinid="ht_node" url="{node2}" target="-94.8/-0.3/70.0"/>
+      <hotspot id="Point02" pan="360" description="" title="COCINA" tilt="2.61" skinid="ht_node" url="{node3}" target="90.5/0.0/70.0"/>
+      <hotspot id="Point03" pan="233.2" description="" title="DORMITORIO" tilt="-4.93" skinid="ht_node" url="{node5}" target="$fwd"/>
+      <hotspot id="Point04" pan="289.83" description="" title="INGRESO" tilt="-4.05" skinid="ht_node" url="{node4}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomspeed="2" blendtime="1" enabled="1" zoomin="0" softedge="0" zoomfov="20"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" simulatemass="1" speedwheel="1" invertcontrol="1" contextprojections="0" lockedwheel="0" invertwheel="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" height="1155" levelingroll="0" levelingpitch="0" leveltilesize="510" width="1155" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" height="1155" width="1155" predecode="0"/>
+      <level preload="0" height="577" width="577" predecode="0"/>
+      <level preload="1" height="288" width="288" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="445.293" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata info="" tags="Unreal Engine Demo" comment="" customnodeid="" description="" datetime="21/05/2020 10:24" heading="445.293" copyright="" source="" latitude="" nodeid="node2" title="" author="" longitude="">
+      <mapcoords x="0.420227" mapid="AptoUE4" y_floorplan_percent="29.773" x_floorplan_percent="28.3333" y="-0.306244"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" bordercolor="0x000000" background="1" backgroundalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" enabled="1" height="20" width="180" wordwrap="1" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" pan="261.36" description="" title="SALA" tilt="-18.87" skinid="ht_node" url="{node1}" target="-170.8/-1.2/70.0"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomspeed="2" blendtime="1" enabled="1" zoomin="0" softedge="0" zoomfov="20"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" simulatemass="1" speedwheel="1" invertcontrol="1" contextprojections="0" lockedwheel="0" invertwheel="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" height="1024" levelingroll="0" levelingpitch="0" leveltilesize="510" width="1024" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" height="1024" width="1024" predecode="0"/>
+      <level preload="0" height="512" width="512" predecode="0"/>
+      <level preload="1" height="256" width="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="90.5356" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata info="" tags="Unreal Engine Demo" comment="" customnodeid="" description="" datetime="" heading="90.5356" copyright="" source="NVIDIA" latitude="" nodeid="node3" title="eyJEUlNBcHBOYW1lIiA6ICJVRTRFZGl0b3IuZXhlIiwgIkRSU1Byb2ZpbGVOYW1lIiA6ICJVbnJlYWwgRW5naW5lIERlbW8iLCAiU2hvcnROYW1lIiA6ICIiLCAiQ21zSWQiIDogIiJ9" author="" longitude="">
+      <mapcoords x="1.01212" mapid="AptoUE4" y_floorplan_percent="36.7156" x_floorplan_percent="68.2407" y="-0.377655"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" bordercolor="0x000000" background="1" backgroundalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" enabled="1" height="20" width="180" wordwrap="1" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" pan="-274.01" description="" title="sala" tilt="-24.17" skinid="ht_node" url="{node1}" target="-2.5/-5.6/70.0"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomspeed="2" blendtime="1" enabled="1" zoomin="0" softedge="0" zoomfov="20"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" simulatemass="1" speedwheel="1" invertcontrol="1" contextprojections="0" lockedwheel="0" invertwheel="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbias="0.400" height="1024" levelingroll="0" levelingpitch="0" leveltilesize="510" width="1024" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" height="1024" width="1024" predecode="0"/>
+      <level preload="0" height="512" width="512" predecode="0"/>
+      <level preload="1" height="256" width="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="47.0504" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata info="" tags="Unreal Engine Demo" comment="" customnodeid="" description="" datetime="" heading="47.0504" copyright="" source="NVIDIA" latitude="" nodeid="node4" title="eyJEUlNBcHBOYW1lIiA6ICJVRTRFZGl0b3IuZXhlIiwgIkRSU1Byb2ZpbGVOYW1lIiA6ICJVbnJlYWwgRW5naW5lIERlbW8iLCAiU2hvcnROYW1lIiA6ICIiLCAiQ21zSWQiIDogIiJ9" author="" longitude="">
+      <mapcoords x="0.808868" mapid="AptoUE4" y_floorplan_percent="68.2243" x_floorplan_percent="54.537" y="-0.701752"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" bordercolor="0x000000" background="1" backgroundalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" enabled="1" height="20" width="180" wordwrap="1" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" pan="315.12" description="" title="SALA" tilt="-0.3" skinid="ht_node" url="{node1}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomspeed="2" blendtime="1" enabled="1" zoomin="0" softedge="0" zoomfov="20"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" simulatemass="1" speedwheel="1" invertcontrol="1" contextprojections="0" lockedwheel="0" invertwheel="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbias="0.400" height="1024" levelingroll="0" levelingpitch="0" leveltilesize="510" width="1024" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
+      <level preload="0" height="1024" width="1024" predecode="0"/>
+      <level preload="0" height="512" width="512" predecode="0"/>
+      <level preload="1" height="256" width="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="269.528" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" scaletofit="1" fov="120" tilt="90"/>
+    </view>
+    <userdata info="" tags="Unreal Engine Demo" comment="" customnodeid="" description="" datetime="" heading="269.528" copyright="" source="NVIDIA" latitude="" nodeid="node5" title="eyJEUlNBcHBOYW1lIiA6ICJVRTRFZGl0b3IuZXhlIiwgIkRSU1Byb2ZpbGVOYW1lIiA6ICJVbnJlYWwgRW5naW5lIERlbW8iLCAiU2hvcnROYW1lIiA6ICIiLCAiQ21zSWQiIDogIiJ9" author="" longitude="">
+      <mapcoords x="0.549316" mapid="AptoUE4" y_floorplan_percent="69.1589" x_floorplan_percent="37.037" y="-0.711365"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" bordercolor="0x000000" background="1" backgroundalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" enabled="1" height="20" width="180" wordwrap="1" borderalpha="1" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" pan="150.8" description="" title="SALA" tilt="1.78" skinid="ht_node" url="{node1}" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomspeed="2" blendtime="1" enabled="1" zoomin="0" softedge="0" zoomfov="20"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" dblclickfullscreen="0" lockedkeyboard="0" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" simulatemass="1" speedwheel="1" invertcontrol="1" contextprojections="0" lockedwheel="0" invertwheel="0" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata info="" tags="" comment="" customnodeid="" description="" datetime="" heading="0" copyright="" source="" latitude="" nodeid="master" title="" author="" longitude=""/>
+  </masternode>
+  <map type="file" bgcolor="rgba(255, 255, 255, 1)" id="AptoUE4" transparent="0" floorplannorth="269.66" height="749" width="1080" title="" tileformat="jpg" zoomlevels="1"/>
+</tour>
